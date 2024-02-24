@@ -8,15 +8,15 @@ const readMore = more.repeat(4001)
 global.owner = [
 ['6285794908894', 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ', true],
 ]
-global.mods = []
-global.prems = []
+global.mods = ['6285794908894']
+global.prems = ['6285794908894']
 // Info
 global.nomorwa = '6285794908894'
 global.packname = 'Kιɳα Bσƚ By'
 global.author = '© Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
-global.namebot = '​GuraBotz 3 - MD'
-global.wm = '© Kιɳα Bσƚ By Myuko'
-global.stickpack = 'Kιɳα Bσƚ By'
+global.namebot = '​Kιɳα Bσƚ'
+global.wm = '© Kιɳα Bσƚ By Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
+global.stickpack = '© Kιɳα Bσƚ'
 global.stickauth = '© Kιɳα Bσƚ'
 global.fotonya = 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg'
 // Link Sosmed
