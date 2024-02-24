@@ -6,27 +6,27 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['6281977815539', 'Myuko Dev', true],
+['6285794908894', 'Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ', true],
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '6281977815539'
-global.packname = 'GuraBotz 3 - MD By'
-global.author = '© Myuko'
+global.nomorwa = '6285794908894'
+global.packname = 'Kιɳα Bσƚ By'
+global.author = '© Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ'
 global.namebot = '​GuraBotz 3 - MD'
-global.wm = '© Gura By Myuko'
-global.stickpack = 'GuraBotz 3 - MD By'
-global.stickauth = '© Myuko'
-global.fotonya = 'https://telegra.ph/file/3c025e2497a5bc8f773d7.jpg'
+global.wm = '© Kιɳα Bσƚ By Myuko'
+global.stickpack = 'Kιɳα Bσƚ By'
+global.stickauth = '© Kιɳα Bσƚ'
+global.fotonya = 'https://telegra.ph/file/da3dd014f4481e4bbd089.jpg'
 // Link Sosmed
-global.sig = 'https://www.instagram.com/@thisapin_'
-global.sgh = 'https://github.com/KAZOTUBOTZ'
-global.sgc = 'https://chat.whatsapp.com/GIZavmvJSZ13W9X9qFCa7z'
+global.sig = 'https://www.instagram.com/@iky_alwaysgood'
+global.sgh = '!'
+global.sgc = 'https://chat.whatsapp.com/GbNiwLK3R9y4pOUFDW5eAQ'
 // Donasi
-global.psaweria = 'https://sociabuzz.com/myukodev'
-global.ptrakterr = 'https://trakteer.id/myukodev'
-global.povo = '081977815539'
+global.psaweria = '!'
+global.ptrakterr = '!'
+global.povo = 'Tidak tersedia'
 // Info Wait
 global.wait = '_Sedang Di Proses, Mohon Tunggu_....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
