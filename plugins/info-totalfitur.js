@@ -4,7 +4,7 @@ let fitur = Object.values(plugins).filter(v => v.help && !v.disabled).map(v => v
 let totalf = Object.values(global.plugins).filter(
     (v) => v.help && v.tags
   ).length;
- await m.reply(`Fitur Yang Di Miliki Ayaka Saat Ini\nTotal: ${fitur.length} Fitur`)
+ await m.reply(`Fitur Yang Di Miliki Kιɳα Bσƚ Saat Ini\nTotal: ${fitur.length} Fitur`)
 }
 handler.help = ['totalfitur']
 handler.tags = ['info']
