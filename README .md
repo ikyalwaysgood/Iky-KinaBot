@@ -16,8 +16,8 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```javascript
-git clone https://github.com/ikyalwaysgood/Iky-MD
-cd Iky-MD
+git clone https://github.com/ikyalwaysgood/Iky-KinaBot
+cd Iky-KinaBot
 npm i
 npm start
 ```
