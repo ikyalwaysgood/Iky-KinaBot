@@ -7,19 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4500&color=51AAFF&lines=Hallo+Saya+IkyOfficial+;GUNAKAN+DENGAN+BIJAK!!!;SELAMAT+MENGGUNAKAN+%F0%9F%92%95%F0%9F%8C%B9)](https://git.io/typing-svg)
  ------
 
-## Base Ori
-Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
-
-## Run On Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ikyalwaysgood/Iky)
-# Heroku Buildpack
-### Instal Buildpack
-```bash
-* heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
