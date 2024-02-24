@@ -22,16 +22,16 @@
         "whatsapp",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/Zeltoria/Clara-MD",
+    "homepage": "https://github.com/ikyalwaysgood/Iky-KinaBot",
     "author": {
         "name": "Iky Official"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Zeltoria/Clara-MD.git"
+        "url": "git+https://github.com/ikyalwaysgood/Iky-KinaBot.git"
     },
     "bugs": {
-        "url": "https://github.com/Zeltoria/Clara-MD/issues"
+        "url": "https://github.com/ikyalwaysgood/Iky-KinaBot/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
