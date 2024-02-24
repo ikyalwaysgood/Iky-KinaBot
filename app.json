@@ -1,11 +1,11 @@
 {
-  "name": "Whatsapp Bot by Zeltoria",
+  "name": "Whatsapp Bot by Iky Official",
   "description": "Whatsapp Make Your Job Easy",
   "keywords": [
     "whatsapp bot",
     "nodejs"
   ],
-  "repository": "https://github.com/Zeltoria/Clara-MD",
+  "repository": "https://github.com/ikyalwaysgood/Iky-KinaBot",
     "buildpacks": [
     {
       "url": "heroku/nodejs"
